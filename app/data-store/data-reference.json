@@ -1,0 +1,9 @@
+{
+    "elements": [{
+        "id": "001",
+        "commands": ["ChannelText","AwaitResponse","ChannelText"]
+    },{
+        "id": "002",
+        "commands": ["ChannelText","AwaitResponse"]
+    }]
+}

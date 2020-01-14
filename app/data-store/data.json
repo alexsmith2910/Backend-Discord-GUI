@@ -1,0 +1,11 @@
+{
+    "cmds": [{
+        "title": "test",
+        "aliases": ["t1", "t2"],
+        "id": "001"
+    }, {
+        "title": "test2",
+        "aliases": ["t3", "t4"],
+        "id": "002"
+    }]
+}
